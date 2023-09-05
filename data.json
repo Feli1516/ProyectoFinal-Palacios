@@ -1,0 +1,50 @@
+[
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEETEYZ4EF3qEhTANrqVoAWEhTlTLRmgnGGg&usqp=CAU", 
+        "id": 1, 
+        "nombre": "milanesa", 
+        "precio": 2000
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlofEoAox7pN4W9CrRSAE0-zf5VLxmwmOOEQ&usqp=CAU", 
+        "id": 2, 
+        "nombre": "pizza", 
+        "precio": 1700
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LQ71efTKl3y3jodzatIfJLP7ehYcT_nF8A&usqp=CAU", 
+        "id": 3, 
+        "nombre": "hamburguesa", 
+        "precio": 1900
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL8YQwP9vtioHEnkUScPoDXRmu4T4UhYPeA&usqp=CAU", 
+        "id": 4, 
+        "nombre": "fideos", 
+        "precio": 1600
+    },
+    {
+        "img":"https://media.istockphoto.com/id/611328454/es/foto/botella-de-agua-de-bebida-de-pl%C3%A1stico.jpg?s=612x612&w=0&k=20&c=8xNMIwM8Gsf5LN1c7yBCEPTA5pC0-Erz_ndDXqc83gE=", 
+        "id": 5, 
+        "nombre": "agua", 
+        "precio": 600
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3R8ENJIsPUvUp9oNOgdayXiAY2A1ZNZ4bg&usqp=CAU", 
+        "id": 6, 
+        "nombre": "jugos", 
+        "precio": 600
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMsD7fYp4ZKRFTUKGRX81nHeGBJxjlxJAVA&usqp=CAU", 
+        "id": 7, 
+        "nombre": "gaseosa", 
+        "precio": 700
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmzxYpStvFKUX9QHT-GGdBLgFdi8HvUB9-0ABwZ722ZuojlkoQDnRNnEqn4JXxn7SVioI&usqp=CAU", 
+        "id": 8, 
+        "nombre": "vino", 
+        "precio": 1500
+}
+]
